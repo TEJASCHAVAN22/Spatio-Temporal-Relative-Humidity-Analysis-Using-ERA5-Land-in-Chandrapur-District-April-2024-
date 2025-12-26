@@ -1,0 +1,2 @@
+# Spatio-Temporal-Relative-Humidity-Analysis-Using-ERA5-Land-in-Chandrapur-District-April-2024-
+This study analyzes spatio-temporal variations in relative humidity over Chandrapur District, Maharashtra, using ERA5-Land hourly data for April 2024. Relative humidity is derived from air temperature and dew point temperature to assess atmospheric moisture patterns, supporting climate analysis, agriculture, and environmental monitoring.
